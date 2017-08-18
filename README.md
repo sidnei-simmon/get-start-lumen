@@ -1,3 +1,2 @@
 # get-start-lumen
-Estudos Micro-Framework Lumen
-Projeto clonado no ubuntu com sucesso!
+Curso: https://www.asolucoesweb.com.br/aulas/curso-lumen-basico-baixando-e-configurando
