@@ -1,3 +1,3 @@
 # get-start-lumen
 Estudos Micro-Framework Lumen
-Usarei como rascunho
+Projeto clonado no ubuntu com sucesso!
